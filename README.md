@@ -44,7 +44,7 @@ All videos can be found using this [insert link here]
 ## Important Links And Notes
 
 
-[Slack Room insert link here]
+[Slack! For realtime info during lessons and allthetime chat during all the times.](july2017pt.slack.com)
 
 -----------------------------------------
 
