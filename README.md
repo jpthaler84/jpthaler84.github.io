@@ -36,7 +36,9 @@ You must give a full effort on every group and individual project.
 
 #### Class Videos
 
-All videos can be found using this [insert link here]
+All videos can be found using these links:
+[Josh](goo.gl/TZsro1)
+[Jedd](goo.gl/sRs3MW)
 
 -----------------------------------------
 
@@ -58,7 +60,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 -----------------------------------------
 ## Curriculum By Week
 
-Please see bootcampspot-v2.com
+Please see [bootcampspot-v2.com](http://bootcampspot-v2.com)
 
 ##### The material covered in this syllabus is subject to change. Our academic team adjusts to the market rapidly.
 
